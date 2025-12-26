@@ -3,9 +3,9 @@ import React from 'react';
 import { Service, PricePackage, Benefit } from './types';
 
 export const OWNER_NAME = "Jundi Abdullah";
-export const WHATSAPP_NUMBER = "082134342089";
+export const WHATSAPP_NUMBER = "085938384042";
 export const EMAIL = "Jabdrise@gmail.com";
-export const WHATSAPP_LINK = `https://wa.me/6282134342089?text=Halo%20JAbd%20Tech,%20saya%20tertarik%20konsultasi%20website.`;
+export const WHATSAPP_LINK = `https://wa.me/6285938384042?text=Halo%20JAbd%20Tech,%20saya%20tertarik%20konsultasi%20website.`;
 
 export const SERVICES: Service[] = [
   {
